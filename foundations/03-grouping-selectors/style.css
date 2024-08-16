@@ -1,0 +1,25 @@
+.button1 {
+    font-size:28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.button2 {
+    font-size:28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+    background-color: yellow;
+}
+
+.button_container {
+    background-color: white;
+    padding: 1%;
+    width: 50%;
+    position: absolute;
+    left: 25%;
+}
+body {
+    background-color:black;
+    text-align: center;
+    padding-top: 25%;
+}
